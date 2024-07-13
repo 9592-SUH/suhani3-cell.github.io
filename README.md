@@ -1,2 +1,4 @@
 # suhani3-cell.github.io
-**College or peer introduction**
+Firstly I want to myself( a local resident of ludhiana, Punjab) with my qualifications and currently what I am pursuing.I have passed my +2 from **Bhartiya Vidya Mandir School,chd road, ldh**.Now I am trailing btech in IT branch at **Guru Nanak Dev Engineering College,ldh** one of the **prestigious and old institution**of technical education. I am keenly interested to learn coding and software which abandon our slow processing computing knowledge and work which needs only 2-3 min to be completed instead of tiring with old methods which could take up 1 hour to solved .I will try my best to do work efficiently and my name is known for my achievements,**Suhani Saluja**.
+### Education
+
