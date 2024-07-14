@@ -15,4 +15,32 @@ After reaching college,we faced many problems to find us our alloted place for i
 **Dr Parmimder Singh** gave the full detailed view onscholarship offered by college.
 At last lecture,we got a chance  to learn a lot from **Dr.Hardeep Rai**,a source of information .His views on examination are fascinated as expected.He was also ready to give us wonderful  opportunities to work with them and gaining access to free and open source software efficiently.
 ## Third day experience at GNE college 
+We got chance to learn about human values as recommended from AICTE,I learned about how ethics and moral values are necessary for accomplished any task and make our life a success. After that ,we got a chance to interact with our seniors ,they discussed about their experience and how grading system (revaluation),library card ,to enroll ourselves with official website of college are necessary things we have to know about it and get benefit from it.
+The three days of college are the days from which I got to know about the prevailing of education system in systematic way.
+**Project completed** under thw guidance of **Dr H.S Rai** sir areas follows -
+
+* Making website at gitHub with the help of gihub pages.
+
+* repository file creation with the help of following markdown elements-
+   
+   Italic-_github_
+  
+  bold-**github**
+  
+  Table-|------|------|
+
+insert image-[alt text](images.jpg)
+
+## Header-github 
+
+* bullet list- github
+
+
+contact Details
+suhanisaluja24@gmail.com
+
+ 
+  
+
+
 
